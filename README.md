@@ -1,4 +1,4 @@
-## Hey 👋, I'm Leonel Saba !  
+## Hey 👋, I'm Leonel !  
   
 ### Glad to see you here!  
 I'm a web developer from Neuchâtel, Switzerland. I like working with React, JavaScript, Tailwindcss. I'm always curious to expand my skills by learning the new technologies to build new projects from the ground up.  
