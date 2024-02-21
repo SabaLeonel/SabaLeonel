@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Leonel !  
 
-I'm a web developer and student at 42Lausanne from Neuchâtel, Switzerland. I like working with React, JavaScript, Tailwindcss. I'm always curious to expand my skills by learning the new technologies to build new projects from the ground up.  
-[![lsaba-qu's 42 stats](https://badge42.vercel.app/api/v2/clagug4zz00500fmo3pefahe6/stats?cursusId=21&coalitionId=191)](https://github.com/JaeSeoKim/badge42)
+I'm a web developer and student at 42Lausanne, Switzerland. I like working with React, JavaScript, Tailwindcss. I'm always curious to expand my skills by learning the new technologies to build new projects from the ground up.  
+
 <br/>
 
 ## Rapidfire  
