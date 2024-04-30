@@ -29,12 +29,17 @@ I'm a web developer and student at 42Lausanne, Switzerland. I like working with 
 <br/>
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sabaleonel&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/sabaleonel/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=sabaleonel" alt="Sabaleonel's GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabaleonel&hide_border=true&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabaleonel&hide_border=true&layout=compact" align="left" style="width: 90%" />
-
-</td></tr></table>  
