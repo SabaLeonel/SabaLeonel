@@ -6,7 +6,7 @@ I'm a software developper and graduated from  42 Lausanne, Switzerland. I like w
 
 ## Rapidfire  
 
-- 🔭 I’m currently working on [Movie Connoisseur](https://github.com/SabaLeonel/movie_connoisseur)  
+- 🔭 I’m currently working on [My Movie List](https://github.com/SabaLeonel/my_movie_list)  
   
 
 - 🌱 I’m currently learning Next JS, Drizzle, tRPC, Typescript and many more  
