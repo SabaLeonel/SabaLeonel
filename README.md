@@ -9,7 +9,7 @@ I'm a software developper and graduated from  42 Lausanne, Switzerland. I like w
 - 🔭 I’m currently working on [My Movie List](https://github.com/SabaLeonel/my_movie_list)  
   
 
-- 🌱 I’m currently learning Next JS, Drizzle, tRPC, Typescript and many more  
+- 🌱 I’m currently learning Next JS, Prisma, tRPC, Typescript and many more  
 
 <br/>  
 
