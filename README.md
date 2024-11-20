@@ -4,7 +4,7 @@ I enjoy working with JavaScript, building sleek and functional experiences using
 
 ## Rapidfire
 
-- 🔭 I’m currently working on [mymovielist](https://github.com/SabaLeonel/mymovielist) 
+- 🔭 I’m currently working on [My Movie List](https://github.com/SabaLeonel/mymovielist) 
 
 - 🌱 I’m currently learning Next JS, Prisma, tRPC, Typescript and many more  
 
