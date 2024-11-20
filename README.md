@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Leonel !  
 
-I'm a software developper and graduated from  42 Lausanne, Switzerland. I like working with JavaScript, React, Next JS and Tailwindcss for styling. I'm always curious to expand my skills by learning the new technologies to build new projects from the ground up.  
+I'm a software developper and graduated from  42 Lausanne, Switzerland. I like working with JavaScript, React, Next.js and Tailwindcss for styling. I'm always curious to expand my skills by learning the new technologies to build new projects from the ground up.  
 
 <br/>
 
